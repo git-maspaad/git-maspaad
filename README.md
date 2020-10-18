@@ -32,24 +32,24 @@
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
-### ✍ Medium Blog Posts
+### ✍ Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting Most out of GitHub & Stack Overflow — Flutter Beginner](https://blog.usejournal.com/getting-most-out-of-github-stack-overflow-flutter-beginner-5ad8ed01cdef?source=rss-198dec8dcf4a------2)
-- [Flutter v 1.22 — Quick Summary](https://itnext.io/flutter-v-1-22-quick-summary-c86a36ed56b3?source=rss-198dec8dcf4a------2)
-- [Journey from Scratch till Play Store — The Holy Qur’an | Flutter App](https://itnext.io/journey-from-scratch-till-play-store-the-holy-quran-flutter-app-407a5370448a?source=rss-198dec8dcf4a------2)
-- [Flutter v 1.20 — Quick Summary!!](https://itnext.io/flutter-v-1-20-quick-summary-ca14e6da9418?source=rss-198dec8dcf4a------2)
-- [Flutter is only for UI development — Change My Mind!](https://itnext.io/flutter-is-only-for-ui-development-change-my-mind-f8ced7a6b57e?source=rss-198dec8dcf4a------2)
+- [How to setup your ADB (Android Debug Bridge) more than one device or emulator](https://flutter-us.blogspot.com/2020/08/how-to-setup-your-adb-android-debug.html)
+- [Flutter - Writing custom platform with specific code](https://flutter-us.blogspot.com/2019/12/flutter-writing-custom-platform-with.html)
+- [pub global](https://flutter-us.blogspot.com/2019/09/pub-global.html)
+- [Error Handling Flutter Web](https://flutter-us.blogspot.com/2019/08/error-handling-flutter-web.html)
+- [Tutorial Flutter Desktop - Create Apps for Mac OS](https://flutter-us.blogspot.com/2019/07/create-desktop-apps-with-flutter-in-mac.html)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-[![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=m-hamzashakeel&theme=gotham)](https://github.com/m-hamzashakeel/github-readme-stats)
+[![Fadhil github stats](https://github-readme-stats.vercel.app/api?username=git-maspaad&theme=gotham)](https://github.com/git-maspaad/github-readme-stats)
 
 </details>
 
-Open Source Contributor from <b>Pakistan<b> 💚
+Open Source Contributor from <b>Indonesia<b> 💚
 
 [quran]: https://github.com/m-hamzashakeel/The_Holy_Quran_App
 [twitter]: https://www.twitter.com/m_hamzashakeel/
