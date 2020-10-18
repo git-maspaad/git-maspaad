@@ -12,7 +12,7 @@
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
-#### Talking about my personal stuff:
+<!-- #### Talking about my personal stuff:
 
 - 🙋‍♂️ Software Developer & Founder/CEO to [TanyaID][tanyaid]
 - 💻 The tech I'm interested in is Flutter, AR/VR, ML & Deep Learning
@@ -20,7 +20,7 @@
 - 📱 First Live app on Play Store [Holy Qur'an App][quran]
 - ✨ I'm learning Front-End Development, AR & ML
 - 🎮 I love to play video games (COD, PUBG etc)
-- 📄 [Resume][profile]
+- 📄 [Resume][profile] -->
 
 ### Languages & Tools
 
