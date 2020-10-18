@@ -8,13 +8,13 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
-### A Student, Developer & Writer
+### Software Developer & Founder of TanyaID
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
 #### Talking about my personal stuff:
 
-- 🙋‍♂️ Active DSC Lead at my [Campus][dsccui] & Founder/CEO to [Flutter Islamabad][flutter_isb]
+- 🙋‍♂️ Software Developer & Founder/CEO to [TanyaID][tanyaid]
 - 💻 The tech I'm interested in is Flutter, AR/VR, ML & Deep Learning
 - ✍ I also do technical writing on Medium
 - 📱 First Live app on Play Store [Holy Qur'an App][quran]
@@ -58,5 +58,5 @@ Open Source Contributor from <b>Pakistan<b> 💚
 [medium]: https://medium.com/@hamza.6.shakeel
 [facebook]: https://www.facebook.com/hamza.maddog
 [dsccui]: https://dsc.community.dev/comsats-university-islamabad/
-[flutter_isb]: http://facebook.com/FlutterIslamabadPakistan
+[tanyaid]: https://tanyaid.com
 [profile]: http://m-hamzashakeel.github.io
