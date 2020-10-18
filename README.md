@@ -37,9 +37,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [How to setup your ADB (Android Debug Bridge) more than one device or emulator](https://flutter-us.blogspot.com/2020/08/how-to-setup-your-adb-android-debug.html)
 - [Flutter - Writing custom platform with specific code](https://flutter-us.blogspot.com/2019/12/flutter-writing-custom-platform-with.html)
-- [pub global](https://flutter-us.blogspot.com/2019/09/pub-global.html)
-- [Error Handling Flutter Web](https://flutter-us.blogspot.com/2019/08/error-handling-flutter-web.html)
-- [Tutorial Flutter Desktop - Create Apps for Mac OS](https://flutter-us.blogspot.com/2019/07/create-desktop-apps-with-flutter-in-mac.html)
+<!-- - [pub global](https://flutter-us.blogspot.com/2019/09/pub-global.html) -->
+<!-- - [Error Handling Flutter Web](https://flutter-us.blogspot.com/2019/08/error-handling-flutter-web.html) -->
+<!-- - [Tutorial Flutter Desktop - Create Apps for Mac OS](https://flutter-us.blogspot.com/2019/07/create-desktop-apps-with-flutter-in-mac.html) -->
 <!-- BLOG-POST-LIST:END -->
 
 <details>
