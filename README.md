@@ -7,7 +7,7 @@
 <!-- [<img align="left" alt="m-hamzashakeel | Medium" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg">][medium] -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=git-maspaad)
-[![GitHub Fadhil]( https://img.shields.io/github/followers/git-maspaad?label=follow&style=social)](https://github.com/git-maspaad)
+[![GitHub Fadhil]( https://img.shields.io/github/followers/git-maspaad?label=followers&style=social)](https://github.com/git-maspaad)
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu) -->
 
 ### Software Developer & Founder of TanyaID
